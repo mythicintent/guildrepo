@@ -14,11 +14,11 @@ You can **use, copy, share, or change** anything in this repository. Just make s
 
 ## Quick Links
 
-- [Addons](#addons)
-- [Macros](#macros)
-- [PBPS](#pbps)
-- [Raid Guides](#raid-guides)
-- [WeakAuras](#weakauras)
+- [Addons](https://github.com/mythicintent/guildrepo/tree/main/addons)
+- [Macros](https://github.com/mythicintent/guildrepo/tree/main/macros)
+- [PBPS](https://github.com/mythicintent/guildrepo/tree/main/pbps)
+- [Raid Guides](https://github.com/mythicintent/guildrepo/tree/main/raid-guides)
+- [WeakAuras](https://github.com/mythicintent/guildrepo/tree/main/WeakAuras)
 
 ---
 
